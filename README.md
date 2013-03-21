@@ -1,9 +1,9 @@
-API Restful com Zend Framework 2 e Doctrine ORM
+API RESTFul com Zend Framework 2 e Doctrine ORM
 ============
 
 ## Descrição
 
-Este projeto contém um exemplo prático da utilização do [Zend Framework 2](http://framework.zend.com/manual/2.0/en/index.html) com o ORM [Doctrine](http://www.doctrine-project.org/). Trata-se da implementação de um [CRUD](http://en.wikipedia.org/wiki/Create,_read,_update_and_delete) simples de produtos, cuja finalidade é demonstrar a integração entre o ZF2 e Doctrine.
+Este projeto consiste em um exemplo simples e prático de como criar um a [API RESTFul](http://en.wikipedia.org/wiki/Representational_state_transfer) com [Zend Framework 2](http://framework.zend.com/manual/2.0/en/index.html) com o ORM [Doctrine](http://www.doctrine-project.org/).
 
 A configuração da máquina utilizada para realização deste tutorial foi:
 
@@ -28,7 +28,7 @@ git clone git@github.com:zendframework/ZendSkeletonApplication.git zf2-doctrine-
 
 ##### composer.json
 
-Acrescentar as depencencias referentes ao doctrine no arquivo:
+Acrescentar as depencencias referentes ao Doctrine no arquivo:
 
 ```
 "doctrine/doctrine-orm-module": "dev-master",
