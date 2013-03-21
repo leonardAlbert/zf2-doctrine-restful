@@ -869,10 +869,10 @@ Obtém os primeiros 10 registros deste recurso cujo nome possui a palavra "charg
 #### GET http://zf2-doctrine-restful.local/product-rest?name=charge&Glutem&queryType=or&orderBy=id&typeOfOrder=desc
 Obtém os primeiros 10 registros deste recurso cujo nome possui a palavra "charge" ou que na descrição contenha a palavra "Glútem" ordenando o resultado pelo código de forma descendente.
 
-#### POST http://zf2-doctrine-restful.local/product-rest?name=Another product&description=This is a new product
+#### POST http://zf2-doctrine-restful.local/product-rest?name=product&description=description
 Efetua o cadastro de um novo produto.
 
-#### PUT http://zf2-doctrine-restful.local/product-rest?id=50&name=New Product
+#### PUT http://zf2-doctrine-restful.local/product-rest?id=50&name=Product
 Altera o nome do produto cujo código é 50.
 
 #### DELETE http://zf2-doctrine-restful.local/product-rest?id=50
