@@ -1,9 +1,9 @@
-API RESTFul com Zend Framework 2 e Doctrine ORM
+API RESTful com Zend Framework 2 e Doctrine ORM
 ============
 
 ## Descrição
 
-Este projeto consiste em um exemplo simples e prático de como criar um a [API RESTFul](http://en.wikipedia.org/wiki/Representational_state_transfer) com [Zend Framework 2](http://framework.zend.com/manual/2.0/en/index.html) com o ORM [Doctrine](http://www.doctrine-project.org/).
+Este projeto consiste em um exemplo simples e prático de como criar um a [API RESTful](http://en.wikipedia.org/wiki/Representational_state_transfer) com [Zend Framework 2](http://framework.zend.com/manual/2.0/en/index.html) com o ORM [Doctrine](http://www.doctrine-project.org/).
 
 A configuração da máquina utilizada para realização deste tutorial foi:
 
