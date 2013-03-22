@@ -21,7 +21,7 @@ Este tutorial assume que o local deste projeto será no diretório **/var/www**.
 
 ```
 cd /var/www
-git clone git@github.com:zendframework/ZendSkeletonApplication.git zf2-doctrine-restful
+sudo git clone git@github.com:zendframework/ZendSkeletonApplication.git zf2-doctrine-restful
 ```
 
 ## Instalando dependências
