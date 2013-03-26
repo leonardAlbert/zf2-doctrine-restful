@@ -681,7 +681,7 @@ class ProductController extends AbstractRestfulController
      */
     public function getProduct($id)
     {
-        $product = $entityManager = $this->getEntityManager()
+        $product = $this->getEntityManager()
             ->getRepository('StockRest\Entity\Product')
             ->find($id);
 
